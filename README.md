@@ -28,10 +28,7 @@ I prompted an AI discovery tool (using a combination of Elicit, Semantic Scholar
 | Citation Fabrication | AI cited a non-existent UP Mindanao 2022 study. | Verify every citation via Google Scholar, institutional repositories, or author records. |
 | Temporal & Projection Confusion | AI mixed 2030 targets with 2023 actual data. | Check publication dates and clearly separate projections from current figures. |
 | Western-Centric Baseline Bias | Assumed a solar-first transition model not aligned with Mindanao’s hydro-dominant grid. | Use local-context prompts grounded in Mindanao infrastructure (e.g., Agus–Pulangi). |
-| Overconfidence in AI Summaries | Claims presented as facts with no uncertainty. | Require confidence scoring; low-confidence claims trigger mandatory human review. |
-
-coal phase-out in Mindanao.                     |
-| “NGCP reported zero transmission curtailments in Mindanao for 2023.”                                           | NGCP 2023 System Operations Report   | ❌ Flagged – Fabrication           | FALSE. At least three curtailment events occurred in the Davao–Agusan corridor in 2023.                                           |
+| Overconfidence in AI Summaries | Claims presented as facts with no uncertainty. | Require confidence scoring; low-confidence claims trigger mandatory human review. |                                           |
 
 ### 3. Recommended Human–AI Workflow
 
