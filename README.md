@@ -9,6 +9,12 @@
 - #473a120
 - #fdeed9
 
+# 🌴 The Davao Gulf Eco-Logistics Prompt System
+## A Localized AI Framework for the Davao Region
+### 1. System Prompt Template (V3 - Final Optimized)
+This is the core, reusable system prompt. Copy and paste this into your AI interface to generate hyper-localized, professional content for economic and social initiatives in Mindanao.
+
+
 # 📝 Literature Verification Log
 ## Topic: Renewable Energy Transition Challenges in Mindanao Grid Infrastructure
 ### 1. AI-Generated Summary Audit
